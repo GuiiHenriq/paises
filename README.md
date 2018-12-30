@@ -1,5 +1,5 @@
 # Países
-Site para apresentação dos Países e pontos turísticos mais bonitos do Mundo, este site foi totalmente desenvolvido utilizando Javascript Vanilla e CSS Grid.<br
+Site para apresentação dos Países e pontos turísticos mais bonitos do Mundo, este site foi totalmente desenvolvido utilizando Javascript Vanilla e CSS Grid.<br>
 Projeto desenvolvido no curso da <a href="https://www.origamid.com/" target="_blank">Origamid</a><br><br>
 # Linguagens
 HTML 5<br>
